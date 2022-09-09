@@ -1,0 +1,16 @@
+body{
+    background-color: #FFEFD5 ;
+    color: #8B4513 ;
+}
+h1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+header{
+    height: 120px;
+    background-image: url(MicrosoftTeams-image\ \(2\).png);
+    background-size: cover;
+}
+ul{
+    list-style: url(ikon.png);
+}
