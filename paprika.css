@@ -1,6 +1,7 @@
 body{
     background-color: #FFEFD5 ;
     color: #8B4513 ;
+    
 }
 h1{
     padding-top: 30px;
@@ -10,7 +11,45 @@ header{
     height: 120px;
     background-image: url(MicrosoftTeams-image\ \(2\).png);
     background-size: cover;
+    max-width: 80%;
 }
 ul{
     list-style: url(ikon.png);
+}
+
+menu{
+    float: left;
+    max-width: 30%;
+    
+}
+
+li{
+    background-color: white;
+    border: lightblue solid 2px;
+    width: 200px;
+    height: 50px;
+    margin:10px;
+}
+table{
+    border: black solid 1px;
+}
+tr{
+    border: black solid 1px;
+    
+}
+th{
+    border: black solid 1px;
+    padding: 5px;
+}
+#zold{
+    background-color: rgb(101, 235, 101);
+}
+#sarga{
+    background-color: rgb(235, 235, 95);
+}
+#piros{
+    background-color: rgb(238, 102, 102);
+}
+#lila{
+    background-color: rgba(210, 117, 238, 0.979);
 }
