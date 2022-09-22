@@ -36,6 +36,7 @@ li{
 }
 table{
     border: black solid 1px;
+    margin-right: 15px;
 }
 tr{
     border: black solid 1px;
