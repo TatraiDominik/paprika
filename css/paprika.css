@@ -1,14 +1,12 @@
 body{
     background-color: #FFEFD5 ;
     color: #8B4513 ;
-    margin:auto;
+    margin-right: 100px;
+    margin-left: 100px;
     
     
 }
-main{
-    float: right;
-    width: 300px;
-}
+
 h1{
     padding-top: 30px;
     padding-bottom: 30px;
@@ -17,16 +15,15 @@ header{
     height: 120px;
     background-image: url(../img/MicrosoftTeams-image\ \(2\).png);
     background-size: cover;
-    max-width: 80%;
+    
 }
 ul{
     list-style: url(../img/ikon.png);
+    margin-right: 15px;
+    margin-bottom: 15px;
 }
 
-menu{
-    float: left;
-    max-width: 30%;
-}
+
 
 li{
     background-color: white;
@@ -37,8 +34,9 @@ li{
 }
 table{
     border: black solid 1px;
-    margin-right: 15px;
-    float: center;
+    margin-right: 50px;
+    margin-left:50px;
+    
 }
 tr{
     border: black solid 1px;
