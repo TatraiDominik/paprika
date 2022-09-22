@@ -15,12 +15,12 @@ h1{
 }
 header{
     height: 120px;
-    background-image: url(MicrosoftTeams-image\ \(2\).png);
+    background-image: url(../img/MicrosoftTeams-image\ \(2\).png);
     background-size: cover;
     max-width: 80%;
 }
 ul{
-    list-style: url(ikon.png);
+    list-style: url(../img/ikon.png);
 }
 
 menu{
