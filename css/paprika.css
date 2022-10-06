@@ -135,9 +135,10 @@ th{
   .menu__item:hover {
     background-color: #CFD8DC;
   }
-  menu{
+  main{
     position: relative;
     display: block;
     overflow: hidden;
+    
   }
 }
